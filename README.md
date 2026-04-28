@@ -86,3 +86,6 @@ plt.show()
 # Results
 
 Thereforce, a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling is excecuted.
+
+
+.
